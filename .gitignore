@@ -6,3 +6,4 @@ inst/rmarkdown/templates/thesis/skeleton/_book/*
 inst/rmarkdown/templates/thesis/skeleton/_bookdown_files/*
 renv/.gitignore
 renv/settings.dcf
+
